@@ -1,8 +1,8 @@
 body{
     margin: 0;
     font-family: 'helvetica', 'Arial', sans-serif;
-    font-size; 20px;
-    line-height: 30px;
+    font-size:20px;
+    line-height:30px;
 
 }
 
@@ -10,7 +10,7 @@ header{
     background-color: gold;
     text-align: center;
     padding-top: 50px;
-    padding-botton: 50px;
+    padding-bottom: 50px;
 }
 
 h1, h2{
@@ -67,7 +67,7 @@ footer p{
 footer a{
     color: #154360;
 }
-footer a: hover{
+footer a:hover{
     opacity: .5;
     background-color: transparent;
 }
