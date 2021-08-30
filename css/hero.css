@@ -1,14 +1,22 @@
 body{
     margin: 0;
+    font-family: 'helvetica', 'Arial', sans-serif;
+
 }
 
 header{
-    background-color: #6495ED;
+    background-color: gold;
     text-align: center;
+    padding-top: 50px;
+    padding-botton: 50px;
 }
 
+h1, h2{
+    font-family: 'Comic Neue', cursive;
+}
 header h1{
-    color: white;
+    color: black;
+    font-size: 50px;
 }
 
 header img{
