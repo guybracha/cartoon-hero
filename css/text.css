@@ -1,4 +1,6 @@
-<style type="text/css">
+        body{
+            background-color: lightgrey;
+        }
         h1{
             font-size: 30px;
             color: teal;
@@ -24,4 +26,3 @@
         h1 span{
             color: violet;
         }
-    </style>
